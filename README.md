@@ -84,18 +84,6 @@ Automation        █████████████
 Game Development  █████████
 ```
 
----
-
-# ▌PHILOSOPHY
-
-```
-"Understand how systems work.
-Break them.
-Rebuild them better."
-```
-
----
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=HackMan1248-AK&label=PROFILE+VIEWS&color=00F5D4&style=flat"/>
 </p>
