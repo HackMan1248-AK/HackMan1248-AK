@@ -3,12 +3,9 @@
 <h1 align="center">⚡ HackMan1248</h1>
 <h3 align="center">Student • Programmer • Gamer</h3>
 
-<p align="center">
-<code>night_coder_mode = true</code>
-</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=700&lines=Initializing+Developer+Profile...;Student+%7C+Programmer+%7C+Gamer;Cybersecurity+%7C+AI+Explorer;Building+Things+With+Code;Night+Coder+Activated" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=700&lines=Initializing+Developer+Profile...;Student+%7C+Programmer+%7C+Gamer;Cybersecurity+%7C+AI+Explorer;Building+Things+With+Code;" />
 </p>
 
 ---
@@ -18,7 +15,6 @@
 ```
 Alias        :: HackMan1248
 Role         :: Student / Developer
-Mode         :: Night Coder
 Primary Lang :: Python
 Learning     :: React (Mobile App Development)
 Focus Areas  :: Cybersecurity • AI • Web Dev • Game Dev • Automation
