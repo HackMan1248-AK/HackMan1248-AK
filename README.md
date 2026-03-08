@@ -60,29 +60,19 @@ Focus Areas  :: Cybersecurity • AI • Web Dev • Game Dev • Automation
 > Exploring cybersecurity concepts
 ```
 
----
+# ▌DEV MACHINE
 
-# ▌GITHUB STATS
+```id="machine"
+SYSTEM_NAME  :: HackStation-01
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HackMan1248-AK&show_icons=true&theme=transparent&title_color=00F5D4&icon_color=00F5D4&text_color=00F5D4&border_color=00F5D4"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackMan1248-AK&layout=compact&theme=transparent&title_color=00F5D4&text_color=00F5D4&border_color=00F5D4"/>
-</p>
-
----
-
-# ▌SYSTEM STATUS
-
+CPU          :: 12th Gen Intel(R) Core(TM) i5-12400F
+GPU          :: NVIDIA GeForce GTX 1650
+RAM          :: 16GB DDR4
+STORAGE      :: 512GB Kingston SSD with 2TB HDD
+OS           :: Windows
+EDITOR       :: VS Code
 ```
-Python            ████████████████████
-React             ███████████████
-Cybersecurity     ███████████
-Automation        █████████████
-Game Development  █████████
-```
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=HackMan1248-AK&label=PROFILE+VIEWS&color=00F5D4&style=flat"/>
